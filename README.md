@@ -1,2 +1,6 @@
-# shop-app-rn
-React Native Max course app
+# Shop React Native
+
+
+#### Course project from Max, with react navigator 4, react, redux and hooks.
+
+
